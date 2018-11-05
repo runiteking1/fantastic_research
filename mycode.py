@@ -1,5 +1,6 @@
 def f(x):
-    """Add a new comment"""
+    """Add a new comment
+    This function multiplies uh something"""
     return 5*x*x + 1
 
 if __name__ == "__main__":
